@@ -265,6 +265,4 @@ namespace Lab3
 
         }
     }
-
-
 }
