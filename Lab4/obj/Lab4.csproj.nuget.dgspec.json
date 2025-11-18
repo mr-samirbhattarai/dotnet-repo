@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/samirbhattarai/Desktop/Programming/dotnet_folder/FirstProject/MyApp/MyApp.csproj": {}
+    "/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab4/Lab4.csproj": {}
   },
   "projects": {
-    "/Users/samirbhattarai/Desktop/Programming/dotnet_folder/FirstProject/MyApp/MyApp.csproj": {
+    "/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab4/Lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/samirbhattarai/Desktop/Programming/dotnet_folder/FirstProject/MyApp/MyApp.csproj",
-        "projectName": "MyApp",
-        "projectPath": "/Users/samirbhattarai/Desktop/Programming/dotnet_folder/FirstProject/MyApp/MyApp.csproj",
+        "projectUniqueName": "/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab4/Lab4.csproj",
+        "projectName": "Lab4",
+        "projectPath": "/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab4/Lab4.csproj",
         "packagesPath": "/Users/samirbhattarai/.nuget/packages/",
-        "outputPath": "/Users/samirbhattarai/Desktop/Programming/dotnet_folder/FirstProject/MyApp/obj/",
+        "outputPath": "/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/samirbhattarai/.nuget/NuGet/NuGet.Config"
