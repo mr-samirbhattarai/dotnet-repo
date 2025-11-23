@@ -1,0 +1,15 @@
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/bin/Debug/net9.0/Tutorial5
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/bin/Debug/net9.0/Tutorial5.deps.json
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/bin/Debug/net9.0/Tutorial5.runtimeconfig.json
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/bin/Debug/net9.0/Tutorial5.dll
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/bin/Debug/net9.0/Tutorial5.pdb
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/obj/Debug/net9.0/Tutorial5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/obj/Debug/net9.0/Tutorial5.AssemblyInfoInputs.cache
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/obj/Debug/net9.0/Tutorial5.AssemblyInfo.cs
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/obj/Debug/net9.0/Tutorial5.csproj.CoreCompileInputs.cache
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/obj/Debug/net9.0/Tutorial5.sourcelink.json
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/obj/Debug/net9.0/Tutorial5.dll
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/obj/Debug/net9.0/refint/Tutorial5.dll
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/obj/Debug/net9.0/Tutorial5.pdb
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/obj/Debug/net9.0/Tutorial5.genruntimeconfig.cache
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Tutorial5/obj/Debug/net9.0/ref/Tutorial5.dll
