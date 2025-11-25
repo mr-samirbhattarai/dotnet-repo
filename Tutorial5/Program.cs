@@ -17,7 +17,7 @@ class Program
 
         System.Console.WriteLine("-----------------Good Account---------------");
         GoodBankAccount goodBankAccount = new GoodBankAccount();
-        goodBankAccount.Balance = 1000;    // This value doesnot get updated
+        goodBankAccount.Balance = 1000;    // This value doesn't get updated
         System.Console.WriteLine($"Good Balance = {goodBankAccount.Balance}");
         goodBankAccount.Balance = -9999;
         System.Console.WriteLine($"Good Balance = {goodBankAccount.Balance}");
@@ -29,7 +29,6 @@ class Program
 
         System.Console.WriteLine("-----------------Inheritance---------------");
         System.Console.WriteLine("-----------------Car---------------");
-
         Car car1 = new Car();
         car1.Brand = "Toyota";
         car1.Speed = 150;
