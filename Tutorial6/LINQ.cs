@@ -8,6 +8,9 @@ public static class LINQExample
 
         var squaredNumbers = from n in numbers where n % 2 != 0 select n;
         System.Console.WriteLine($"Odd Numbers: {string.Join(", ", squaredNumbers)}");
+
+
+        
     }
 
 
