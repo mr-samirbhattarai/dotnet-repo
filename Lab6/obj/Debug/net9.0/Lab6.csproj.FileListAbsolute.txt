@@ -1,0 +1,15 @@
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/obj/Debug/net9.0/Lab6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/obj/Debug/net9.0/Lab6.AssemblyInfoInputs.cache
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/obj/Debug/net9.0/Lab6.AssemblyInfo.cs
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/obj/Debug/net9.0/Lab6.csproj.CoreCompileInputs.cache
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/obj/Debug/net9.0/Lab6.sourcelink.json
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/bin/Debug/net9.0/Lab6
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/bin/Debug/net9.0/Lab6.deps.json
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/bin/Debug/net9.0/Lab6.runtimeconfig.json
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/bin/Debug/net9.0/Lab6.dll
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/bin/Debug/net9.0/Lab6.pdb
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/obj/Debug/net9.0/Lab6.dll
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/obj/Debug/net9.0/refint/Lab6.dll
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/obj/Debug/net9.0/Lab6.pdb
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/obj/Debug/net9.0/Lab6.genruntimeconfig.cache
+/Users/samirbhattarai/Desktop/Programming/dotnet_folder/Lab6/obj/Debug/net9.0/ref/Lab6.dll
